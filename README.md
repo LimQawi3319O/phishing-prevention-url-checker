@@ -79,7 +79,7 @@ development progresses, the app will continue to evolve, incorporating new featu
 emerging threats to ensure that users remain safe in an increasingly digital world. By investing in
 CyberSafed, you are not only safeguarding your own online experience but also contributing to a safer
 internet for all.
-Author
+# Author
 Harshwardhan Godse, Mahika Rege, Katikey Roy, Shasmeen Shaik, Pradnya
 # point to be noted 
 we have used veed for making a video for our prototype.
