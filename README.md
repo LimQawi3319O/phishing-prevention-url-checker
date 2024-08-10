@@ -81,3 +81,6 @@ CyberSafed, you are not only safeguarding your own online experience but also co
 internet for all.
 Author
 Harshwardhan Godse, Mahika Rege, Katikey Roy, Shasmeen Shaik, Pradnya
+# point to be noted 
+we have used veed for making a video for our prototype.
+it is made with help of a text to video ai
