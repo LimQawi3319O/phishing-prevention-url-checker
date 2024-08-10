@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phishing Prevention Tool</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <img src="C:\Users\Admin\Desktop\phising site\Cyber security.png" alt="Company Logo" class="logo">
+      <h1>Phishing Prevention Tool</h1>
+    </div>
+  </header>
+  <main>
+    <form id="urlForm">
+      <label for="urlInput">Enter URL to Check:</label>
+      <input type="text" id="urlInput" placeholder="https://example.com">
+      <button type="submit">Check URL</button>
+    </form>
+    <div id="alertMessage"></div>
+    <div id="reportForm">
+      <h2>Report a Phishing Site</h2>
+      <form id="reportUrlForm">
+        <label for="reportUrl">URL:</label>
+        <input type="text" id="reportUrl" required>
+        <label for="reportDescription">Description:</label>
+        <textarea id="reportDescription" required></textarea>
+        <button type="submit">Submit Report</button>
+      </form>
+    </div>
+    <section id="infoSection">
+      <h2>Learn More About Cybersecurity</h2>
+      <p>For more information on cybersecurity and phishing, visit <a href="https://www.ibm.com/topics/cybersecurity" target="_blank">CyberSecurity.org</a>.</p><a href="https://www.ibm.com/topics/phishing" target="_blank">Phishing.org</a>.</p>
+      <p>We also have more pages dedicated to other types of scams and tips on staying safe in the digital world:</p>
+      <ul>
+        <li><a href="scams.html">Types of Scams</a></li>
+        <li><a href="safety-tips.html">How to Stay Safe</a></li>
+      </ul>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
