@@ -84,3 +84,8 @@ Harshwardhan Godse, Mahika Rege, Katikey Roy, Shasmeen Shaik, Pradnya
 # point to be noted 
 we have used veed for making a video for our prototype.
 it is made with help of a text to video ai
+# video
+
+
+https://github.com/user-attachments/assets/cfa1bea3-cb1a-4050-ace6-1462e9b84035
+
